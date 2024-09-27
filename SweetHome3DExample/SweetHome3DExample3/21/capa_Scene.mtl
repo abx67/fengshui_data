@@ -1,0 +1,16 @@
+# 3D model import /Users/manu/Developer/Java/SweetHome3D/deploy/models/contributions/capa/capa_Scene.obj
+
+newmtl 1
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.643401 0.643401 0.643401
+Ks 1.107645 1.107645 1.107645
+Ns 66.666664
+Ni 1.0
+
+newmtl Circle_Circle_17
+illum 2
+Ka 0.4 0.4 0.4
+Kd 0.7102 0.702 0.6531
+Ks 0.3 0.3 0.3
+Ns 128.0

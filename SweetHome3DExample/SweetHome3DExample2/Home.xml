@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+<home version='5300' name='SweetHome3DExample2.sh3d' camera='topCamera' wallHeight='254.0' furnitureSortedProperty='NAME'>
+  <furnitureVisibleProperty name='NAME'/>
+  <furnitureVisibleProperty name='WIDTH'/>
+  <furnitureVisibleProperty name='DEPTH'/>
+  <furnitureVisibleProperty name='HEIGHT'/>
+  <furnitureVisibleProperty name='VISIBLE'/>
+  <environment groundColor='005D3D3D' skyColor='00CCE4FC' lightColor='00D3D3D3' observerCameraElevationAdjusted='false' ceillingLightColor='00D0D0D0' photoWidth='400' photoHeight='300' photoAspectRatio='VIEW_3D_RATIO' photoQuality='0' videoWidth='320' videoAspectRatio='RATIO_4_3' videoQuality='0' videoFrameRate='25'>
+    <texture attribute='groundTexture' name='Carreaux beiges' width='20.0' height='20.0' leftToRightOriented='false' image='0'/>
+    <texture attribute='skyTexture' name='Ciel bleu' width='100.0' height='41.3' leftToRightOriented='false' image='1'/>
+  </environment>
+  <compass x='-100.0' y='50.0' diameter='100.0' northDirection='0.0' longitude='0.040724345' latitude='0.8528843' timeZone='Europe/Paris' visible='false'/>
+  <observerCamera attribute='observerCamera' lens='PINHOLE' x='160.7074' y='284.1249' z='169.99733' yaw='5.150643' pitch='0.1507296' fieldOfView='1.0995574' time='1508328000646'/>
+  <camera attribute='topCamera' lens='PINHOLE' x='-12.193512' y='546.68384' z='824.0827' yaw='-2.3184097' pitch='1.0303975' fieldOfView='1.0995575' time='1508328000630'/>
+  <pieceOfFurniture name='Bed 140x190' model='3' icon='2' x='471.16666' y='97.33333' angle='1.5707964' width='157.48' depth='208.28' height='69.85'/>
+  <pieceOfFurniture name='Bedside table' model='5' icon='4' x='555.8334' y='197.66655' width='38.1' depth='38.1' height='50.165'/>
+  <pieceOfFurniture name='Bookcase' model='7' icon='6' x='520.167' y='487.33344' angle='3.1415927' width='100.33' depth='40.005' height='210.81999' color='FF996600'/>
+  <pieceOfFurniture name='Bowl' model='9' icon='8' x='442.52298' y='394.356' elevation='45.085' width='34.925' depth='34.925' height='29.845'/>
+  <pieceOfFurniture name='Chair' model='11' icon='10' x='243.50027' y='445.66678' angle='1.5707964' width='40.005' depth='41.91' height='90.17'/>
+  <pieceOfFurniture name='Coffee table' model='13' icon='12' x='419.50027' y='395.0174' width='120.015' depth='49.53' height='45.085'/>
+  <pieceOfFurniture name='Cooker' model='15' icon='14' x='42.389175' y='187.66661' angle='3.1415927' width='60.0075' depth='62.23' height='90.17'/>
+  <pieceOfFurniture name='Fridge &amp; Freezer' model='17' icon='16' x='104.38913' y='185.6666' angle='3.1415927' width='59.69' depth='66.04' height='185.42'/>
+  <pieceOfFurniture name='Kitchen cabinet' model='19' icon='18' x='63.48358' y='48.2222' width='101.6' depth='64.135' height='85.09' movable='false'/>
+  <pieceOfFurniture name='Plant' model='21' icon='20' x='535.20996' y='265.4' width='58.42' depth='50.8' height='81.28'/>
+  <pieceOfFurniture name='Round table' model='23' icon='22' x='177.16693' y='442.3335' width='109.22' depth='109.22' height='73.659996'/>
+  <pieceOfFurniture name='Sink' model='25' icon='24' x='173.72247' y='48.444427' width='120.015' depth='64.135' height='106.68' movable='false'/>
+  <pieceOfFurniture name='Stool' model='27' icon='26' x='180.83359' y='383.33347' width='40.005' depth='40.005' height='45.72'/>
+  <pieceOfFurniture name='TV unit' model='29' icon='28' x='409.50027' y='482.6668' angle='3.1415927' width='100.0125' depth='52.07' height='92.71'/>
+  <pieceOfFurniture name='Wardrobe' model='31' icon='30' x='268.83694' y='112.96915' angle='4.712389' width='53.34' depth='53.34' height='165.09999'/>
+  <doorOrWindow name='Double small window' model='33' icon='32' x='151.0003' y='7.833312' elevation='107.314995' width='132.08' depth='34.0002' height='113.665' movable='false' wallThickness='0.7352941' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <sash xAxis='0.015151516' yAxis='0.7352941' width='0.4810606' startAngle='0.0' endAngle='-1.5707964'/>
+    <sash xAxis='0.9848485' yAxis='0.7352941' width='0.4810606' startAngle='3.1415927' endAngle='4.712389'/>
+  </doorOrWindow>
+  <doorOrWindow name='Window' model='35' icon='34' x='293.22906' y='7.833312' elevation='46.989998' width='68.58' depth='34.0002' height='173.98999' movable='false' wallThickness='0.7352941' cutOutShape='M0,0 v1 h1 v-1 z'>
+    <sash xAxis='0.021978023' yAxis='0.7352941' width='0.94505495' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow name='Open door' model='37' icon='36' x='293.5669' y='191.62817' angle='3.1378007' width='81.28' depth='72.53352' height='208.5975' modelMirrored='true' movable='false' wallThickness='0.11029412' wallDistance='0.014705882' cutOutShape='M0,0 v1 h1 v-1 z'>
+    <sash xAxis='0.05464481' yAxis='0.125' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow name='Open door' model='37' icon='36' x='183.66501' y='191.83699' angle='3.1415927' width='81.28' depth='72.53352' height='208.5975' movable='false' wallThickness='0.11029412' wallDistance='0.014705882' cutOutShape='M0,0 v1 h1 v-1 z'>
+    <sash xAxis='0.05464481' yAxis='0.125' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow name='Door' model='39' icon='38' x='107.00013' y='305.4011' angle='4.712389' width='91.0' depth='44.0' height='208.5975' movable='false' wallThickness='0.51724136' wallDistance='0.06896552' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <sash xAxis='0.05464481' yAxis='0.5862069' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow name='Double French window' model='41' icon='40' x='585.0' y='365.49115' elevation='11.1125' angle='1.5707964' width='132.08' depth='34.0002' height='209.8675' movable='false' wallThickness='0.7352941' cutOutShape='M0,0 v1 h1 v-1 z'>
+    <sash xAxis='0.015151516' yAxis='0.7352941' width='0.4810606' startAngle='0.0' endAngle='-1.5707964'/>
+    <sash xAxis='0.9848485' yAxis='0.7352941' width='0.4810606' startAngle='3.1415927' endAngle='4.712389'/>
+  </doorOrWindow>
+  <pieceOfFurniture name='Sofa' model='43' icon='42' x='421.62708' y='270.09006' angle='1.7484555E-7' width='147.0025' depth='86.994995' height='86.994995'/>
+  <wall id='wall0' wallAtStart='wall8' wallAtEnd='wall1' xStart='-0.49969482' yStart='3.333313' xEnd='-0.49969482' yEnd='231.33319' height='254.0' thickness='25.0'>
+    <texture attribute='leftSideTexture' name='Roughcast' width='20.0' height='20.0' leftToRightOriented='false' image='46'/>
+  </wall>
+  <wall id='wall1' wallAtStart='wall0' wallAtEnd='wall2' xStart='-0.49969482' yStart='231.33319' xEnd='98.83359' yEnd='231.33319' height='254.0' thickness='25.0'>
+    <texture attribute='leftSideTexture' name='Roughcast' width='20.0' height='20.0' leftToRightOriented='false' image='46'/>
+  </wall>
+  <wall id='wall2' wallAtStart='wall1' wallAtEnd='wall3' xStart='98.83359' yStart='231.33319' xEnd='98.83359' yEnd='521.33325' height='254.0' thickness='25.0' leftSideColor='FFFFFF99'/>
+  <wall id='wall3' wallAtStart='wall2' wallAtEnd='wall6' xStart='98.83359' yStart='521.33325' xEnd='589.5' yEnd='521.33325' height='254.0' thickness='25.0' leftSideColor='FFFFFF99'/>
+  <wall id='wall4' xStart='238.16693' yStart='219.48663' xEnd='238.16693' yEnd='8.666649' height='254.0' thickness='8.0' rightSideColor='FFD8D8E7'>
+    <texture attribute='leftSideTexture' name='Roughcast' width='20.0' height='20.0' leftToRightOriented='false' image='46'/>
+  </wall>
+  <wall id='wall5' wallAtStart='wall7' wallAtEnd='wall6' xStart='589.5' yStart='3.333313' xEnd='589.5' yEnd='225.33325' height='254.0' thickness='25.0' rightSideColor='FFD8D8E7'/>
+  <wall id='wall6' wallAtStart='wall5' wallAtEnd='wall3' xStart='589.5' yStart='225.33325' xEnd='589.5' yEnd='521.33325' height='254.0' thickness='25.0' rightSideColor='FFFFFF99'/>
+  <wall id='wall7' wallAtStart='wall8' wallAtEnd='wall5' xStart='242.5' yStart='3.333313' xEnd='589.5' yEnd='3.333313' height='254.0' thickness='25.0' rightSideColor='FFD8D8E7'/>
+  <wall id='wall8' wallAtStart='wall7' wallAtEnd='wall0' xStart='242.5' yStart='3.333313' xEnd='-0.49969482' yEnd='3.333313' height='254.0' thickness='25.0'>
+    <texture attribute='leftSideTexture' name='Roughcast' width='20.0' height='20.0' leftToRightOriented='false' image='46'/>
+  </wall>
+  <wall id='wall9' wallAtEnd='wall10' xStart='590.1671' yStart='222.59256' xEnd='240.91711' yEnd='222.59256' height='254.0' thickness='7.9999995' leftSideColor='FFFFFF99' rightSideColor='FFD8D8E7'/>
+  <wall id='wall10' wallAtEnd='wall9' xStart='108.83711' yStart='222.59256' xEnd='240.91711' yEnd='222.59256' height='254.0' thickness='7.9999995' rightSideColor='FFFFFF99'>
+    <texture attribute='leftSideTexture' name='Roughcast' width='20.0' height='20.0' leftToRightOriented='false' image='46'/>
+  </wall>
+  <room name='Living room' nameXOffset='-78.0' nameYOffset='-86.0' areaVisible='true' areaXOffset='-80.0' areaYOffset='-42.0' ceilingColor='FFFFFFFF'>
+    <texture attribute='floorTexture' name='Carreaux noirs et blancs' width='70.0' height='70.0' leftToRightOriented='false' image='44'/>
+    <point x='336.85977' y='222.64122'/>
+    <point x='244.30733' y='222.99217'/>
+    <point x='244.30733' y='227.0152'/>
+    <point x='238.56291' y='227.03699'/>
+    <point x='231.57211' y='227.03699'/>
+    <point x='231.57211' y='223.012'/>
+    <point x='138.92838' y='223.012'/>
+    <point x='138.92838' y='227.03699'/>
+    <point x='111.33359' y='227.03699'/>
+    <point x='111.33359' y='264.65024'/>
+    <point x='102.33359' y='264.65024'/>
+    <point x='102.33359' y='356.65024'/>
+    <point x='111.33359' y='356.51627'/>
+    <point x='111.33359' y='508.83325'/>
+    <point x='577.0' y='508.83325'/>
+    <point x='577.0' y='225.75363'/>
+    <point x='336.85977' y='226.66425'/>
+  </room>
+  <room floorColor='FF96AEB9'>
+    <point x='242.16693' y='15.833313'/>
+    <point x='242.16693' y='219.02325'/>
+    <point x='244.30733' y='219.01514'/>
+    <point x='244.30733' y='223.03818'/>
+    <point x='336.85977' y='222.68723'/>
+    <point x='336.85977' y='218.66418'/>
+    <point x='577.0' y='217.75357'/>
+    <point x='577.0' y='15.833313'/>
+  </room>
+  <room areaVisible='true'>
+    <texture attribute='floorTexture' name='Carreaux gris' width='31.5' height='31.5' leftToRightOriented='false' image='45'/>
+    <point x='12.000305' y='15.833313'/>
+    <point x='12.000305' y='218.83319'/>
+    <point x='111.33359' y='218.83319'/>
+    <point x='111.33359' y='219.03699'/>
+    <point x='138.92838' y='219.03699'/>
+    <point x='138.92838' y='223.06198'/>
+    <point x='231.57211' y='223.06198'/>
+    <point x='231.57211' y='219.03699'/>
+    <point x='234.16693' y='219.03699'/>
+    <point x='234.16693' y='15.833313'/>
+  </room>
+  <dimensionLine xStart='11.3706665' yStart='-26.106552' xEnd='234.89066' yEnd='-26.106552' offset='-2.0'/>
+  <dimensionLine xStart='241.37067' yStart='-26.145023' xEnd='574.11066' yEnd='-26.145023' offset='-1.9615288'/>
+  <dimensionLine xStart='623.37067' yStart='15.854977' xEnd='623.37067' yEnd='216.51498' offset='0.0'/>
+  <dimensionLine xStart='623.37067' yStart='225.89345' xEnd='623.37067' yEnd='510.3734' offset='-0.0'/>
+  <label x='279.0003' y='-56.508896'>
+    <textStyle fontSize='22.0' bold='true'/>
+    <text>My home</text>
+  </label>
+</home>

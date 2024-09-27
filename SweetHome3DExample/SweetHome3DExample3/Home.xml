@@ -1,0 +1,573 @@
+<?xml version='1.0'?>
+<home version='5300' name='SweetHome3DExample3_2.sh3d' camera='topCamera' wallHeight='250.0'>
+  <property name='com.eteks.sweethome3d.SweetHome3D.CatalogPaneDividerLocation' value='470'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameHeight' value='1133'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameWidth' value='1191'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameX' value='0'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FrameY' value='23'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.FurnitureViewportY' value='800'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanPaneDividerLocation' value='533'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanScale' value='0.49499673'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanViewportX' value='0'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.PlanViewportY' value='12'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.ScreenHeight' value='1417'/>
+  <property name='com.eteks.sweethome3d.SweetHome3D.ScreenWidth' value='2525'/>
+  <furnitureVisibleProperty name='NAME'/>
+  <furnitureVisibleProperty name='WIDTH'/>
+  <furnitureVisibleProperty name='DEPTH'/>
+  <furnitureVisibleProperty name='HEIGHT'/>
+  <furnitureVisibleProperty name='VISIBLE'/>
+  <environment groundColor='FFA6A6A6' skyColor='00CCE4FC' lightColor='00C0C0C0' observerCameraElevationAdjusted='false' ceillingLightColor='00000000' photoWidth='400' photoHeight='267' photoAspectRatio='RATIO_3_2' photoQuality='2' videoWidth='320' videoAspectRatio='RATIO_4_3' videoQuality='0' videoFrameRate='25'/>
+  <compass x='1130.6665' y='50.0' diameter='100.0' northDirection='4.712389' longitude='0.040724345' latitude='0.8528843' timeZone='Europe/Paris'/>
+  <observerCamera attribute='observerCamera' lens='FISHEYE' x='298.6896' y='154.93344' z='170.8411' yaw='11.09235' pitch='0.250736' fieldOfView='1.0995574' time='1285491600048'/>
+  <camera attribute='topCamera' lens='PINHOLE' x='134.85272' y='930.8147' z='1196.7698' yaw='16.31504' pitch='1.0507963' fieldOfView='1.0995575' time='1285491600958'/>
+  <observerCamera attribute='storedCamera' name='Living room' lens='FISHEYE' x='298.6896' y='154.93344' z='170.8411' yaw='11.09235' pitch='0.250736' fieldOfView='1.0995574' time='1285491600048'/>
+  <observerCamera attribute='storedCamera' name='Kitchen' lens='PINHOLE' x='784.37054' y='541.0162' z='168.60294' yaw='11.801208' pitch='0.36573577' fieldOfView='1.1693707' time='1285509600298'/>
+  <observerCamera attribute='storedCamera' name='Table' lens='PINHOLE' x='76.98262' y='132.8476' z='94.74361' yaw='11.032344' pitch='0.11573605' fieldOfView='1.0995574' time='1285491600048'/>
+  <pieceOfFurniture catalogId='Scopia#apple_pc' name='Apple iMac 2004' model='1/apple_pc.obj' icon='0' x='694.0' y='36.59999' elevation='74.93' width='44.1325' depth='36.195' height='38.1'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#plate-and-ustensils' name='Plate' model='3/plate-and-ustensils.obj' icon='2' x='59.5' y='139.66139' elevation='74.93' width='34.925' depth='41.91' height='17.4625'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#plate-and-ustensils' name='Plate' model='3/plate-and-ustensils.obj' icon='2' x='145.57407' y='140.40215' elevation='74.93' width='34.925' depth='41.91' height='17.4625'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#plate-and-ustensils' name='Plate' model='3/plate-and-ustensils.obj' icon='2' x='145.57407' y='95.36512' elevation='74.93' angle='3.1415927' width='34.925' depth='41.91' height='17.4625'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#plate-and-ustensils' name='Plate' model='3/plate-and-ustensils.obj' icon='2' x='59.895077' y='94.62437' elevation='74.93' angle='3.1415927' width='34.925' depth='41.91' height='17.4625'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Bath' model='5' icon='4' x='412.91782' y='358.36633' width='198.75499' depth='76.5175' height='72.0725' modelRotation='0 0 -1 0 1 0 1 0 0' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Artist373#roundedEdgesRailing' name='Railing' model='7' icon='6' x='808.46344' y='-6.516667' elevation='18.0975' width='80.01' depth='9.2074995' height='61.9125' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Artist373#roundedEdgesRailing' name='Railing' model='7' icon='6' x='884.46344' y='-6.5166664' elevation='18.0975' width='80.01' depth='9.2074995' height='61.9125' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Artist373#roundedEdgesRailing' name='Railing' model='7' icon='6' x='935.2634' y='-6.416667' elevation='18.0975' width='80.01' depth='9.2074995' height='61.9125' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Artist373#roundedEdgesRailing' name='Railing' model='7' icon='6' x='972.8' y='31.175411' elevation='18.0975' angle='1.5707964' width='80.01' depth='9.2074995' height='61.9125' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Artist373#roundedEdgesRailing' name='Railing' model='7' icon='6' x='972.8' y='107.17541' elevation='18.0975' angle='1.5707964' width='80.01' depth='9.2074995' height='61.9125' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Artist373#roundedEdgesRailing' name='Railing' model='7' icon='6' x='972.8' y='176.50879' elevation='18.0975' angle='1.5707964' width='80.01' depth='9.2074995' height='61.9125' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Artist373#roundedEdgesRailing' name='Railing' model='7' icon='6' x='972.7999' y='208.5088' elevation='18.0975' angle='1.5707964' width='80.01' depth='9.2074995' height='61.9125' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Artist373#roundedEdgesRailing' name='Railing' model='7' icon='6' x='972.7999' y='284.5088' elevation='18.0975' angle='1.5707964' width='80.01' depth='9.2074995' height='61.9125' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Artist373#roundedEdgesRailing' name='Railing' model='7' icon='6' x='972.7999' y='353.8421' elevation='18.0975' angle='1.5707964' width='80.01' depth='9.2074995' height='61.9125' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Box' model='9' icon='8' x='924.0' y='564.111' elevation='83.185' angle='1.5707964' width='46.989998' depth='59.055' height='2.8575' color='FFD2D2D2'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <light catalogId='Scopia#complements2' name='Candle' model='11/complements2.obj' icon='10' x='511.1667' y='157.33333' elevation='45.085' width='13.0175' depth='13.0175' height='14.9225' power='0.0'>
+    <lightSource x='0.5' y='0.5' z='0.74666667' color='002F2F21'/>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </light>
+  <pieceOfFurniture name='Bottle' model='13/bouteille.obj' icon='12' x='114.52582' y='116.43278' elevation='74.93' width='8.255' depth='8.255' height='29.21'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Photo Inari' model='15/InariFrame.obj' icon='14' x='10.799154' y='118.299194' elevation='105.0925' angle='4.712389' width='47.9425' depth='1.5875' height='67.945'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Picture Eiffel tower' model='17/EiffelTowerFrame.obj' icon='16' x='508.8314' y='311.81717' elevation='135.89' angle='3.1415927' width='100.0125' depth='1.5875' height='74.93'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#simple_sofa' name='Sofa' model='19/simple_sofa.obj' icon='18' x='507.8' y='270.65347' angle='3.1415927' width='219.70999' depth='82.2325' height='115.8875'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Kitchen hood' model='21/capa_Scene.obj' icon='20' x='930.95984' y='816.8334' elevation='173.98999' angle='1.5707964' width='60.0075' depth='45.085' height='55.5625'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#office_chair' name='Chair' model='23/office_chair.obj' icon='22' x='698.9604' y='84.399994' angle='3.1415927' width='75.565' depth='75.8825' height='119.0625'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#chair' name='Chair' model='25/chair.obj' icon='24' x='57.0' y='60.033363' width='41.91' depth='47.3075' height='87.9475' modelRotation='0 0 -1 0 1 0 1 0 0'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#chair' name='Chair' model='25/chair.obj' icon='24' x='143.0' y='60.033363' width='41.91' depth='47.3075' height='87.9475' modelRotation='0 0 -1 0 1 0 1 0 0'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#chair' name='Chair' model='25/chair.obj' icon='24' x='147.0' y='164.03336' angle='3.1415927' width='41.91' depth='47.3075' height='87.9475' modelRotation='0 0 -1 0 1 0 1 0 0'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#chair' name='Chair' model='25/chair.obj' icon='24' x='61.0' y='164.03336' angle='3.1415927' width='41.91' depth='47.3075' height='87.9475' modelRotation='0 0 -1 0 1 0 1 0 0'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#silla_teca' name='Teck chair' model='27/silla_teca.obj' icon='26' x='834.75' y='233.13318' angle='5.497787' width='49.53' depth='57.4675' height='84.1375' modelRotation='0 0 -1 0 1 0 1 0 0'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#silla_teca' name='Teck chair' model='27/silla_teca.obj' icon='26' x='832.75' y='315.13318' angle='3.926991' width='49.53' depth='57.4675' height='84.1375' modelRotation='0 0 -1 0 1 0 1 0 0'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Cylinder' model='29' icon='28' x='974.66656' y='-8.166649' width='4.1275' depth='4.1275' height='79.5'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Cylinder' model='31' icon='30' x='930.5' y='815.3333' elevation='180.97499' width='25.0825' depth='25.0825' height='73.025'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#bathroom-tissue' name='Toilet paper' model='33/bathroom-tissue.obj' icon='32' x='601.6' y='409.48334' elevation='45.085' angle='1.5707964' width='21.2725' depth='17.145' height='14.9225'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Artist373#shelves' name='Shelves' model='35' icon='34' x='328.7' y='35.0' width='218.1225' depth='45.085' height='172.08499' color='FF38352F'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Sink' model='37/cabinetWithBasin.obj' icon='36' x='922.5' y='705.38885' angle='1.5707964' width='80.01' depth='61.9125' height='99.06'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='GdB#armchair2' name='Armchair' model='39' icon='38' x='366.0' y='178.0' angle='4.1887903' width='67.945' depth='82.8675' height='100.0125' shininess='0.0' modelRotation='0 -1 0 0 0 1 -1 0 0'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <doorOrWindow catalogId='Kator Legaz#window-01' name='Window' model='41/window-01.obj' icon='40' x='111.649994' y='1.3580575E-7' elevation='93.0275' width='55.245' depth='25.0825' height='127.9525' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </doorOrWindow>
+  <doorOrWindow catalogId='Kator Legaz#window-01' name='Window' model='41/window-01.obj' icon='40' x='511.65002' y='1.3580586E-7' elevation='93.0275' width='55.245' depth='25.0825' height='127.9525' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </doorOrWindow>
+  <doorOrWindow catalogId='Kator Legaz#window-01' name='Window' model='41/window-01.obj' icon='40' x='185.64996' y='587.7901' elevation='93.0275' angle='3.1415927' width='55.245' depth='25.0825' height='127.9525' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </doorOrWindow>
+  <doorOrWindow catalogId='Kator Legaz#window-01' name='Window' model='41/window-01.obj' icon='40' x='260.0' y='682.65' elevation='93.0275' angle='4.712389' width='55.245' depth='25.0825' height='127.9525' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </doorOrWindow>
+  <doorOrWindow catalogId='Kator Legaz#window-01' name='Window' model='41/window-01.obj' icon='40' x='595.65' y='1.3580623E-7' elevation='93.0275' width='55.245' depth='25.0825' height='127.9525' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </doorOrWindow>
+  <doorOrWindow name='Window' model='43' icon='42' x='966.0' y='704.33325' elevation='94.932495' angle='1.5707964' width='91.1225' depth='25.0825' height='133.985' movable='false' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </doorOrWindow>
+  <pieceOfFurniture catalogId='Snduc#gelDouche' name='Soap' model='45' icon='44' x='504.6667' y='328.93335' elevation='62.864998' angle='0.7853982' width='7.9375' depth='4.1275' height='15.24'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Wash basin' model='47' icon='46' x='535.25' y='473.49988' angle='4.712389' width='40.005' depth='31.115' height='97.155' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#bathroom3' name='Wash basin' model='49/bathroom3.obj' icon='48' x='492.1' y='449.44992' elevation='49.8475' angle='1.5707964' width='71.755' depth='40.3225' height='48.26' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#dvd' name='DVD player' model='51/dvd.obj' icon='50' x='550.1667' y='50.266663' elevation='25.0825' width='42.8625' depth='28.2575' height='5.715'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#bed1' name='Bed' model='53/bed1.obj' icon='52' x='97.33864' y='346.91833' width='170.4975' depth='216.535' height='110.807495'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Corner bunk bed' model='55' icon='54' x='376.5' y='744.0' angle='3.1415927' width='207.9625' depth='207.9625' height='154.94' modelMirrored='true'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#coffee-maker' name='Cofee maker' model='57/coffee-maker.obj' icon='56' x='939.15' y='618.3555' elevation='86.042496' angle='1.5707964' width='18.7325' depth='28.574999' height='29.845'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Kitchen cabinet' model='59/cabinet.obj' icon='58' x='922.5' y='626.05493' angle='1.5707964' width='80.01' depth='61.9125' height='86.042496'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='TV' model='61' icon='60' x='552.0' y='42.33335' width='100.0125' depth='52.07' height='93.0275'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Glassdoor cabinet' model='63/glassdoorCabinet.obj' icon='62' x='931.53406' y='605.5182' elevation='151.13' angle='1.5707964' width='40.005' depth='43.815' height='80.01'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Glassdoor cabinet' model='63/glassdoorCabinet.obj' icon='62' x='931.55' y='565.5182' elevation='151.13' angle='1.5707964' width='40.005' depth='43.815' height='80.3275'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Infernal-quack#microOnde' name='Microwave' model='65' icon='64' x='935.85' y='572.9279' elevation='86.042496' angle='1.5707964' width='48.895' depth='35.2425' height='27.305'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Mirror' model='67/mirror.obj' icon='66' x='512.0' y='447.5' elevation='101.917496' angle='1.5707964' width='40.005' depth='0.635' height='68.8975'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#wardrobe1' name='Wardrobe' model='69/wardrobe1.obj' icon='68' x='36.5' y='519.502' angle='4.712389' width='111.125' depth='53.0225' height='200.025'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Snduc#petiteCommode' name='Chest' model='71' icon='70' x='282.62744' y='421.29657' angle='1.5882496' width='81.915' depth='46.355' height='82.8675'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Picture Antelope Canyon' model='73/AntelopeCanyonFrame.obj' icon='72' x='10.799154' y='347.8846' elevation='100.0125' angle='4.712389' width='50.165' depth='1.5875' height='87.9475'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Picture Hai Van Pass' model='75/HaiVanPassFrame.obj' icon='74' x='551.8889' y='65.333336' elevation='51.1175' width='66.04' depth='0.9525' height='38.1' color='FF000000'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Cooker' model='77/piano_cottura_Scene.obj' icon='76' x='922.6985' y='816.83344' angle='1.5707964' width='60.0075' depth='61.594997' height='84.1375'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#maceta' name='Plant' model='79/maceta.obj' icon='78' x='935.5' y='34.83335' width='59.055' depth='65.0875' height='58.1025'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <doorOrWindow catalogId='Kator Legaz#exterior-door-02' name='Entry door' model='81/exterior-door-02.obj' icon='80' x='684.71783' y='856.13336' angle='3.1415927' width='98.7425' depth='23.8125' height='205.105' modelMirrored='true' movable='false' wallThickness='0.84269667' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <sash xAxis='0.9229209' yAxis='0.84269667' width='0.841785' startAngle='3.1415927' endAngle='4.712389'/>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </doorOrWindow>
+  <doorOrWindow name='Window' model='83' icon='82' x='861.5' y='390.5' elevation='11.1125' width='91.1225' depth='34.0002' height='209.8675' modelMirrored='true' movable='false' wallThickness='0.7352941' cutOutShape='M0,0 v1 h1 v-1 z'>
+    <sash xAxis='0.021978023' yAxis='0.7352941' width='0.94505495' startAngle='0.0' endAngle='-1.5707964'/>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </doorOrWindow>
+  <doorOrWindow name='Sliding window' model='85' icon='84' x='763.0' y='191.99994' elevation='11.1125' angle='1.5707964' width='161.925' depth='27.0002' height='209.8675' movable='false' wallThickness='0.9259259' cutOutShape='M0,0 v1 h1 v-1 z'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </doorOrWindow>
+  <pieceOfFurniture catalogId='Kator Legaz#bullet-trash-can' name='Trashcan' model='87/bullet-trash-can.obj' icon='86' x='779.80554' y='644.2222' angle='4.712389' width='33.02' depth='33.02' height='73.9775'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Snduc#radiateur' name='Radiateur' model='89' icon='88' x='315.76358' y='432.4115' elevation='47.9425' angle='4.719302' width='50.165' depth='6.0325' height='164.465' modelRotation='0 0 1 0 1 0 -1 0 0' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Radiator' model='91' icon='90' x='746.5' y='327.1111' elevation='20.0025' angle='1.5707964' width='37.1475' depth='9.8425' height='45.085' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Radiator' model='91' icon='90' x='105.830475' y='226.16101' elevation='20.0025' angle='3.1407356' width='37.1475' depth='9.8425' height='45.085' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Radiator' model='91' icon='90' x='108.5' y='570.2901' elevation='20.0025' angle='3.1415927' width='37.1475' depth='9.8425' height='45.085' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Radiator' model='91' icon='90' x='524.5' y='843.0' elevation='20.0025' angle='3.1415927' width='37.1475' depth='9.8425' height='45.085' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Radiator' model='91' icon='90' x='763.95984' y='440.0' elevation='20.0025' angle='4.712389' width='37.1475' depth='9.8425' height='45.085' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Snduc#shampoo' name='Shampoo' model='93' icon='92' x='504.3667' y='388.53336' elevation='60.96' angle='1.8325957' width='7.3025' depth='3.4924998' height='16.8275'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Geantick#souris' name='Mouse' model='95' icon='94' x='733.0' y='47.54999' elevation='74.93' width='6.0325' depth='10.16' height='2.54' color='FFD9D8D5' modelRotation='0 0 -1 0 1 0 1 0 0'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#window-blinds' name='Venitian blind' model='97/window-blinds.obj' icon='96' x='276.50003' y='682.5' elevation='92.075' angle='4.712389' width='69.85' depth='7.9375' height='134.9375'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#window-blinds' name='Venitian blind' model='97/window-blinds.obj' icon='96' x='186.0' y='571.2901' elevation='92.075' angle='3.1415927' width='69.85' depth='7.9375' height='134.9375'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#window-blinds' name='Venitian blind' model='97/window-blinds.obj' icon='96' x='747.5' y='235.29643' elevation='108.9025' angle='1.5707964' width='81.915' depth='7.9375' height='118.11' color='FF5C6A9E'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#window-blinds' name='Venitian blind' model='97/window-blinds.obj' icon='96' x='512.0' y='16.5' elevation='92.075' width='69.85' depth='7.9375' height='134.9375' color='FF5C6A9E'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#window-blinds' name='Venitian blind' model='97/window-blinds.obj' icon='96' x='112.0' y='16.5' elevation='92.075' width='69.85' depth='7.9375' height='134.9375' color='FF5C6A9E'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#window-blinds' name='Venitian blind' model='97/window-blinds.obj' icon='96' x='747.5' y='152.62976' elevation='69.85' angle='1.5707964' width='81.915' depth='7.9375' height='156.845' modelMirrored='true' color='FF5C6A9E'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#window-blinds' name='Venitian blind' model='97/window-blinds.obj' icon='96' x='594.6667' y='16.5' elevation='92.075' width='69.85' depth='7.9375' height='134.9375' color='FF5C6A9E'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Sleipnir1#tableauYing' name='Picture Ying' model='99' icon='98' x='750.3611' y='63.111122' elevation='149.86' angle='1.5707964' width='37.1475' depth='0.635' height='42.8625'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='GdB#squareCoffeeTable' name='Table' model='101' icon='100' x='511.55' y='156.04999' elevation='0.9525' width='66.9925' depth='66.9925' height='44.1325'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#cafe-table' name='Table' model='103/cafe-table.obj' icon='102' x='869.1' y='275.43335' width='74.295' depth='74.295' height='69.85' color='FF7E5730'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Kator Legaz#glass-dining-table' name='Table' model='105/glass-dining-table.obj' icon='104' x='702.0' y='42.5' width='92.075' depth='60.0075' height='74.93'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Carpet' model='107/carpet.obj' icon='106' x='509.18524' y='155.64816' angle='4.712389' width='133.0325' depth='188.91249' height='0.9525' shininess='0.0'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Drawers' model='109/drawers.obj' icon='108' x='922.54376' y='765.39636' angle='1.5707964' width='40.005' depth='61.9125' height='86.042496'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='GdB#transat' name='Deck chair' model='111' icon='110' x='848.0' y='68.63334' angle='5.7595863' width='60.0075' depth='104.4575' height='97.79' modelRotation='0 0 1 0 1 0 -1 0 0'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture catalogId='Scopia#vase5' name='Vase' model='113/vase5.obj' icon='112' x='370.3' y='296.78317' width='32.7025' depth='31.115' height='87.3125'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Toilet unit' model='115' icon='114' x='570.0' y='400.75' width='40.005' depth='80.01' height='61.9125' movable='false'>
+    <textStyle attribute='nameStyle' fontSize='20.0'/>
+  </pieceOfFurniture>
+  <pieceOfFurniture name='Fridge &amp; Freezer' model='117' icon='116' x='920.48' y='515.4963' angle='1.5707964' width='60.0075' depth='66.04' height='185.1025'/>
+  <pieceOfFurniture name='Stool' model='119' icon='118' x='787.02606' y='744.8324' width='40.005' depth='40.005' height='46.0375'/>
+  <pieceOfFurniture name='Stool' model='119' icon='118' x='826.02606' y='801.8324' width='40.005' depth='40.005' height='46.0375'/>
+  <pieceOfFurniture name='Table' model='121' icon='120' x='789.19977' y='787.51624' angle='3.1415927' width='58.1025' depth='120.9675' height='73.9775' color='FFD0CFCF' shininess='0.0'/>
+  <light catalogId='Kator Legaz#track-lights' name='Track lights' model='123/track-lights.obj' icon='122' x='767.45984' y='699.8324' elevation='192.0875' angle='4.712389' width='100.0125' depth='17.145' height='13.6525' power='0.24999994'>
+    <lightSource x='0.103' y='0.15882353' z='0.31159422' color='00444444'/>
+    <lightSource x='0.38' y='0.07058824' z='0.5652174' color='00444444'/>
+    <lightSource x='0.603' y='0.11176471' z='0.81884056' color='00444444'/>
+    <lightSource x='0.893' y='0.21764706' z='0.14492753' color='00444444'/>
+  </light>
+  <light catalogId='Kator Legaz#wall-lamp-artwork' name='Wall lamp artwork' model='125/wall-lamp-artwork.obj' icon='124' x='28.6' y='116.83242' elevation='180.02249' angle='4.712389' width='29.845' depth='37.1475' height='27.305' power='0.19999996'>
+    <lightSource x='0.19333334' y='0.059139784' z='0.8791209' color='00303030'/>
+    <lightSource x='0.8066667' y='0.059139784' z='0.8791209' color='00303030'/>
+  </light>
+  <light catalogId='GdB#lampeHalogene' name='Floor lamp' model='127' icon='126' x='470.5649' y='55.393536' angle='5.7595863' width='31.432499' depth='68.8975' height='180.02249' power='0.33000037'>
+    <lightSource x='0.5' y='0.18867925' z='1.0' color='00BBBBBB' diameter='0.31948882'/>
+  </light>
+  <light catalogId='Scopia#desk_lamp1' name='Desk lamp' model='129/desk_lamp1.obj' icon='128' x='731.09827' y='38.043533' elevation='74.93' angle='0.6246762' width='13.6525' depth='34.29' height='45.085' power='0.18999958'>
+    <lightSource x='0.5' y='0.16959065' z='0.9' color='00555555' diameter='0.29197082'/>
+  </light>
+  <pieceOfFurniture catalogId='Scopia#black_table' name='Black table' model='131/black_table.obj' icon='130' x='99.01001' y='117.25961' width='170.18' depth='89.8525' height='74.93' shininess='0.0' modelRotation='0 0 1 0 1 0 -1 0 0'/>
+  <light catalogId='Scopia#little_lamp1' name='Little lamp' model='133/little_lamp1.obj' icon='132' x='202.13159' y='258.82687' elevation='49.8475' width='33.02' depth='33.02' height='41.91' power='0.3'>
+    <lightSource x='0.5' y='0.5' z='0.69212407' color='00777777' diameter='0.18126889'/>
+  </light>
+  <pieceOfFurniture name='Bedside table' model='135' icon='134' x='202.3048' y='257.51193' width='38.1' depth='38.1' height='49.8475'/>
+  <pieceOfFurniture name='Bedside table' model='135' icon='134' x='291.5' y='611.8889' angle='4.712389' width='38.1' depth='38.1' height='49.8475'/>
+  <pieceOfFurniture name='Wardrobe' model='137' icon='136' x='582.76245' y='771.45874' angle='1.5707964' width='152.0825' depth='53.0225' height='201.93'/>
+  <light catalogId='Kator Legaz#wall-spotlight' name='Wall spotlight' model='139/wall-spotlight.obj' icon='138' x='294.33203' y='351.94354' elevation='189.86499' angle='1.5707964' width='6.0325' depth='23.494999' height='10.16' power='0.2'>
+    <lightSource x='0.5' y='0.11914893' z='0.27184466' color='00444444' diameter='0.7166667'/>
+  </light>
+  <light catalogId='Kator Legaz#wall-spotlight' name='Wall spotlight' model='139/wall-spotlight.obj' icon='138' x='293.93494' y='435.5868' elevation='189.86499' angle='1.5808071' width='6.0325' depth='23.494999' height='10.16' power='0.2'>
+    <lightSource x='0.5' y='0.11914893' z='0.27184466' color='00444444' diameter='0.7166667'/>
+  </light>
+  <pieceOfFurniture name='Dishwasher' model='141' icon='140' x='922.0175' y='566.8309' angle='1.5707964' width='40.005' depth='62.864998' height='82.8675'/>
+  <doorOrWindow name='Open door' model='143' icon='142' x='685.55383' y='363.75' angle='3.1415927' width='91.44' depth='67.945' height='208.5975' movable='false' wallThickness='0.11029412' wallDistance='0.014705882' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <sash xAxis='0.05464481' yAxis='0.125' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow name='Open door' model='143' icon='142' x='251.51253' y='297.0462' angle='0.7853982' width='91.44' depth='67.945' height='208.5975' movable='false' wallThickness='0.11029412' wallDistance='0.014705882' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <sash xAxis='0.05464481' yAxis='0.125' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow name='Open door' model='143' icon='142' x='784.45984' y='510.1216' angle='4.712389' width='91.44' depth='67.945' height='208.5975' modelMirrored='true' movable='false' wallThickness='0.11029412' wallDistance='0.014705882' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <sash xAxis='0.05464481' yAxis='0.125' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow name='Open door' model='143' icon='142' x='584.75' y='522.6935' angle='1.5707964' width='91.44' depth='67.945' height='208.5975' modelMirrored='true' movable='false' wallThickness='0.11029412' wallDistance='0.014705882' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <sash xAxis='0.05464481' yAxis='0.125' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow name='Open door' model='143' icon='142' x='337.83835' y='520.37634' angle='4.7223997' width='91.44' depth='67.945' height='208.5975' movable='false' wallThickness='0.11029412' wallDistance='0.014705882' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <sash xAxis='0.05464481' yAxis='0.125' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow name='Open door' model='143' icon='142' x='461.55383' y='549.75' angle='3.1415927' width='91.44' depth='67.945' height='208.5975' movable='false' wallThickness='0.11029412' wallDistance='0.014705882' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <sash xAxis='0.05464481' yAxis='0.125' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <doorOrWindow name='Open door' model='143' icon='142' x='584.75' y='640.9157' angle='1.5707964' width='91.44' depth='67.945' height='208.5975' movable='false' wallThickness='0.11029412' wallDistance='0.014705882' cutOutShape='M0,0 v1 h1 v-1 z' boundToWall='false'>
+    <sash xAxis='0.05464481' yAxis='0.125' width='0.89071035' startAngle='0.0' endAngle='-1.5707964'/>
+  </doorOrWindow>
+  <light catalogId='Snduc#neon' name='Fluorescent strip' model='145' icon='144' x='509.05' y='447.2769' elevation='173.98999' angle='1.5707964' width='41.91' depth='6.35' height='5.08' movable='false' power='0.3'>
+    <lightSource x='0.5' y='0.390625' z='0.5' color='00AAAAAA'/>
+  </light>
+  <light name='Halogen light source' model='147' icon='146' planIcon='148' x='289.61008' y='127.3848' elevation='220.0275' width='25.0825' depth='25.0825' height='25.0825' deformable='false' power='0.43999976'>
+    <lightSource x='0.5' y='0.5' z='0.5' color='00BBAF96' diameter='1.0'/>
+  </light>
+  <light name='Halogen light source' model='147' icon='146' planIcon='148' x='922.9847' y='589.30505' elevation='140.97' width='9.8425' depth='9.8425' height='9.8425' deformable='false' power='0.08'>
+    <lightSource x='0.5' y='0.5' z='0.5' color='00BBAF96' diameter='1.0'/>
+  </light>
+  <light name='Halogen light source' model='147' icon='146' planIcon='148' x='916.2702' y='817.5975' elevation='167.005' width='9.8425' depth='9.8425' height='9.8425' deformable='false' power='0.07'>
+    <lightSource x='0.5' y='0.5' z='0.5' color='00BBAF96' diameter='1.0'/>
+  </light>
+  <light name='White light source' model='147' icon='149' planIcon='148' x='420.90485' y='729.3669' elevation='220.0275' width='22.86' depth='22.86' height='22.86' deformable='false' texturable='false' power='0.2'>
+    <lightSource x='0.5' y='0.5' z='0.5' color='00BBBBBB' diameter='1.0'/>
+  </light>
+  <wall id='wall0' wallAtStart='wall20' wallAtEnd='wall1' xStart='0.0' yStart='0.0' xEnd='764.0' yEnd='0.0' height='250.0' thickness='25.0' rightSideColor='FFFCF5F2'>
+    <texture attribute='leftSideTexture' name='Pierre -3-' width='55.3' height='35.0' leftToRightOriented='false' image='154'/>
+  </wall>
+  <wall id='wall1' wallAtStart='wall0' wallAtEnd='wall2' xStart='764.0' yStart='0.0' xEnd='764.0' yEnd='386.0' height='250.0' thickness='25.0' rightSideColor='FFFCF5F2'>
+    <texture attribute='leftSideTexture' name='Pierre -3-' width='55.3' height='35.0' leftToRightOriented='false' image='154'/>
+  </wall>
+  <wall id='wall2' wallAtStart='wall1' wallAtEnd='wall3' xStart='764.0' yStart='386.0' xEnd='966.0' yEnd='386.0' height='250.0' thickness='25.0'>
+    <texture attribute='leftSideTexture' name='Pierre -3-' width='55.3' height='35.0' leftToRightOriented='false' image='154'/>
+  </wall>
+  <wall id='wall3' wallAtStart='wall2' wallAtEnd='wall4' xStart='966.0' yStart='386.0' xEnd='966.0' yEnd='858.0' height='250.0' thickness='25.0'>
+    <texture attribute='leftSideTexture' name='Pierre -3-' width='55.3' height='35.0' leftToRightOriented='false' image='154'/>
+  </wall>
+  <wall id='wall4' wallAtStart='wall3' wallAtEnd='wall5' xStart='966.0' yStart='858.0' xEnd='260.0' yEnd='858.0' height='250.0' thickness='20.0'/>
+  <wall id='wall5' wallAtStart='wall4' wallAtEnd='wall6' xStart='260.0' yStart='858.0' xEnd='260.0' yEnd='587.7901' height='250.0' thickness='25.0'>
+    <texture attribute='leftSideTexture' name='Pierre -3-' width='55.3' height='35.0' leftToRightOriented='false' image='154'/>
+  </wall>
+  <wall id='wall6' wallAtStart='wall5' wallAtEnd='wall19' xStart='260.0' yStart='587.7901' xEnd='0.0' yEnd='587.7901' height='250.0' thickness='25.0' rightSideColor='FFF1F1FE'>
+    <texture attribute='leftSideTexture' name='Pierre -3-' width='55.3' height='35.0' leftToRightOriented='false' image='154'/>
+  </wall>
+  <wall id='wall7' wallAtStart='wall24' xStart='614.0' yStart='579.0' xEnd='614.0' yEnd='849.0' height='250.0' thickness='7.5'/>
+  <wall id='wall8' wallAtEnd='wall9' xStart='2.0' yStart='235.0' xEnd='230.63608' yEnd='234.80405' height='250.0' thickness='7.5' leftSideColor='FFFCF5F2' rightSideColor='FFF1F1FE'/>
+  <wall id='wall9' wallAtStart='wall8' wallAtEnd='wall13' xStart='230.63608' yStart='234.80405' xEnd='309.83203' yEnd='314.0' height='250.0' thickness='7.5' leftSideColor='FFFCF5F2' rightSideColor='FFF1F1FE'/>
+  <wall id='wall10' xStart='516.0' yStart='357.0' xEnd='614.0' yEnd='357.0' height='250.0' thickness='7.5'/>
+  <wall id='wall11' wallAtStart='wall12' xStart='755.20984' yStart='393.0' xEnd='614.0' yEnd='393.0' height='250.0' thickness='7.5' rightSideColor='FFFCF5F2'/>
+  <wall id='wall12' wallAtStart='wall11' xStart='755.20984' yStart='393.0' xEnd='755.20984' yEnd='855.0' height='250.0' thickness='7.5'/>
+  <wall id='wall13' wallAtStart='wall9' wallAtEnd='wall14' xStart='309.83203' yStart='314.0' xEnd='309.83203' yEnd='396.0' height='250.0' thickness='7.5' rightSideColor='FFF1F1FE'>
+    <texture attribute='leftSideTexture' name='Marbre' width='50.0' height='50.0' leftToRightOriented='false' image='155'/>
+  </wall>
+  <wall id='wall14' wallAtStart='wall13' xStart='309.83203' yStart='396.0' xEnd='308.0' yEnd='579.0' height='250.0' thickness='7.5' rightSideColor='FFF1F1FE'/>
+  <wall id='wall15' wallAtEnd='wall16' xStart='516.0' yStart='319.0' xEnd='516.0' yEnd='398.0' height='250.0' thickness='7.5'>
+    <texture attribute='rightSideTexture' name='Marbre' width='50.0' height='50.0' leftToRightOriented='false' image='155'/>
+  </wall>
+  <wall id='wall16' wallAtStart='wall15' xStart='516.0' yStart='398.0' xEnd='516.0' yEnd='581.0' height='250.0' thickness='7.5'/>
+  <wall id='wall17' wallAtStart='wall22' wallAtEnd='wall18' xStart='614.0' yStart='316.36633' xEnd='516.0' yEnd='316.36633' height='250.0' thickness='7.5' rightSideColor='FFFCF5F2'/>
+  <wall id='wall18' wallAtEnd='wall17' xStart='308.0' yStart='316.36633' xEnd='516.0' yEnd='316.36633' height='250.0' thickness='7.5' leftSideColor='FFFCF5F2'>
+    <texture attribute='rightSideTexture' name='Marbre' width='50.0' height='50.0' leftToRightOriented='false' image='155'/>
+  </wall>
+  <wall id='wall19' wallAtStart='wall6' wallAtEnd='wall20' xStart='0.0' yStart='587.7901' xEnd='2.143132E-14' yEnd='237.7901' height='250.0' thickness='20.0' rightSideColor='FFF1F1FE'/>
+  <wall id='wall20' wallAtStart='wall19' wallAtEnd='wall0' xStart='2.143132E-14' yStart='237.7901' xEnd='0.0' yEnd='0.0' height='250.0' thickness='20.0' rightSideColor='FFFCF5F2'/>
+  <wall id='wall21' wallAtEnd='wall22' xStart='614.0' yStart='581.0' xEnd='614.0' yEnd='394.0' height='250.0' thickness='7.5'/>
+  <wall id='wall22' wallAtStart='wall21' wallAtEnd='wall17' xStart='614.0' yStart='394.0' xEnd='614.0' yEnd='316.36633' height='250.0' thickness='7.5' rightSideColor='FFFCF5F2'/>
+  <wall id='wall23' wallAtStart='wall24' xStart='308.0' yStart='579.0' xEnd='266.0' yEnd='579.0' height='250.0' thickness='7.5' rightSideColor='FFF1F1FE'/>
+  <wall id='wall24' wallAtStart='wall7' wallAtEnd='wall23' xStart='614.0' yStart='579.0' xEnd='308.0' yEnd='579.0' height='250.0' thickness='7.5'/>
+  <room name='Living room' nameXOffset='-95.213745' nameYOffset='-95.35723' areaVisible='true' areaXOffset='-90.975586' areaYOffset='-36.17807' ceilingColor='FFFFFFFF'>
+    <textStyle attribute='nameStyle' fontSize='26.0'/>
+    <textStyle attribute='areaStyle' fontSize='26.0'/>
+    <texture attribute='floorTexture' name='Wooden floor' width='42.5' height='42.5' leftToRightOriented='false' image='150'/>
+    <point x='10.0' y='12.5'/>
+    <point x='10.0' y='231.24313'/>
+    <point x='232.18808' y='231.0527'/>
+    <point x='242.66545' y='241.53001'/>
+    <point x='240.01266' y='244.1828'/>
+    <point x='304.76016' y='308.93192'/>
+    <point x='307.4139' y='306.27817'/>
+    <point x='313.5928' y='312.45703'/>
+    <point x='313.5735' y='315.25'/>
+    <point x='617.75' y='315.25'/>
+    <point x='617.75' y='389.25'/>
+    <point x='638.89014' y='389.25'/>
+    <point x='638.89014' y='393.025'/>
+    <point x='731.6101' y='393.025'/>
+    <point x='731.6101' y='389.25'/>
+    <point x='751.5' y='389.25'/>
+    <point x='751.5' y='12.5'/>
+  </room>
+  <room name='Bedroom #1' nameXOffset='20.0' nameYOffset='88.00003' areaVisible='true' areaXOffset='18.666687' areaYOffset='121.33331' floorColor='FF738888' ceilingColor='FFFFFFFF'>
+    <textStyle attribute='nameStyle' fontSize='26.0'/>
+    <textStyle attribute='areaStyle' fontSize='26.0'/>
+    <point x='229.0841' y='238.55539'/>
+    <point x='10.0' y='238.74315'/>
+    <point x='10.0' y='575.2901'/>
+    <point x='255.0' y='575.2901'/>
+    <point x='272.5' y='575.25'/>
+    <point x='304.27585' y='575.25'/>
+    <point x='304.33487' y='566.7134'/>
+    <point x='307.80017' y='566.7134'/>
+    <point x='308.43994' y='473.9061'/>
+    <point x='304.97464' y='474.16946'/>
+    <point x='306.07126' y='315.54688'/>
+    <point x='302.10834' y='311.5837'/>
+    <point x='304.76212' y='308.92996'/>
+    <point x='240.01463' y='244.18083'/>
+    <point x='237.36186' y='246.8336'/>
+  </room>
+  <room areaVisible='true' areaXOffset='-16.0' areaYOffset='10.0' ceilingColor='FFFFFFFF'>
+    <textStyle attribute='nameStyle' fontSize='26.0'/>
+    <textStyle attribute='areaStyle' fontSize='26.0'/>
+    <texture attribute='floorTexture' name='Dark blue tiles' width='33.5' height='33.5' leftToRightOriented='false' image='151'/>
+    <point x='313.58203' y='320.11633'/>
+    <point x='312.47482' y='474.16946'/>
+    <point x='308.70334' y='474.16946'/>
+    <point x='308.06357' y='566.7134'/>
+    <point x='311.83502' y='566.7134'/>
+    <point x='311.776' y='575.25'/>
+    <point x='414.89014' y='575.25'/>
+    <point x='414.89014' y='578.975'/>
+    <point x='507.6101' y='579.025'/>
+    <point x='507.6101' y='575.25'/>
+    <point x='512.25' y='575.25'/>
+    <point x='512.25' y='320.11633'/>
+  </room>
+  <room name='Bedroom #2' nameXOffset='-12.0' nameYOffset='-92.0' areaVisible='true' areaXOffset='102.0' areaYOffset='-34.0' floorColor='FF8E9E7B' ceilingColor='FFFFFFFF'>
+    <textStyle attribute='nameStyle' fontSize='26.0'/>
+    <textStyle attribute='areaStyle' fontSize='26.0'/>
+    <point x='414.89014' y='578.975'/>
+    <point x='414.89014' y='582.75'/>
+    <point x='272.5' y='582.75'/>
+    <point x='272.5' y='848.0'/>
+    <point x='610.25' y='848.0'/>
+    <point x='610.25' y='687.11'/>
+    <point x='614.025' y='687.11'/>
+    <point x='614.025' y='594.39'/>
+    <point x='610.25' y='594.39'/>
+    <point x='610.25' y='582.75'/>
+    <point x='507.6101' y='582.75'/>
+    <point x='507.6101' y='578.975'/>
+  </room>
+  <room ceilingColor='FFFFFFFF'>
+    <textStyle attribute='nameStyle' fontSize='26.0'/>
+    <textStyle attribute='areaStyle' fontSize='26.0'/>
+    <texture attribute='floorTexture' name='Carreaux gris' width='31.5' height='31.5' leftToRightOriented='false' image='152'/>
+    <point x='519.75' y='360.75'/>
+    <point x='519.75' y='575.25'/>
+    <point x='610.25' y='575.25'/>
+    <point x='610.25' y='569.11'/>
+    <point x='614.025' y='569.11'/>
+    <point x='614.025' y='476.39'/>
+    <point x='610.25' y='476.39'/>
+    <point x='610.25' y='360.75'/>
+  </room>
+  <room areaVisible='true' areaXOffset='4.0' areaYOffset='2.0' ceilingVisible='false' ceilingColor='FFFFFFFF'>
+    <textStyle attribute='nameStyle' fontSize='26.0'/>
+    <textStyle attribute='areaStyle' fontSize='26.0'/>
+    <texture attribute='floorTexture' name='Carreaux beiges' width='20.0' height='20.0' leftToRightOriented='false' image='153'/>
+    <point x='776.5' y='-12.5'/>
+    <point x='978.5' y='-12.5'/>
+    <point x='978.5' y='373.5'/>
+    <point x='776.5' y='373.5'/>
+  </room>
+  <room areaVisible='true' areaXOffset='2.0' areaYOffset='-8.0' ceilingColor='FFFFFFFF'>
+    <textStyle attribute='nameStyle' fontSize='26.0'/>
+    <textStyle attribute='areaStyle' fontSize='26.0'/>
+    <texture attribute='floorTexture' name='Wooden floor' width='42.5' height='42.5' leftToRightOriented='false' image='150'/>
+    <point x='638.89014' y='392.975'/>
+    <point x='638.89014' y='396.75'/>
+    <point x='617.75' y='396.75'/>
+    <point x='617.75' y='476.39'/>
+    <point x='613.975' y='476.39'/>
+    <point x='613.975' y='569.11'/>
+    <point x='617.75' y='569.11'/>
+    <point x='617.75' y='581.0'/>
+    <point x='617.75' y='594.39'/>
+    <point x='613.975' y='594.39'/>
+    <point x='613.975' y='687.11'/>
+    <point x='617.75' y='687.11'/>
+    <point x='617.75' y='848.0'/>
+    <point x='637.7535' y='848.0'/>
+    <point x='637.7535' y='858.025'/>
+    <point x='736.8465' y='858.025'/>
+    <point x='736.8465' y='848.0'/>
+    <point x='751.45984' y='848.0'/>
+    <point x='751.45984' y='573.7766'/>
+    <point x='755.23486' y='573.7766'/>
+    <point x='755.23486' y='481.05664'/>
+    <point x='751.45984' y='481.05664'/>
+    <point x='751.45984' y='396.75'/>
+    <point x='731.6101' y='396.75'/>
+    <point x='731.6101' y='392.975'/>
+  </room>
+  <room name='Kitchen' nameXOffset='-18.567871' nameYOffset='-36.074036' areaVisible='true' areaXOffset='-18.641968' areaYOffset='-7.9506226' ceilingColor='FFFFFFFF'>
+    <textStyle attribute='nameStyle' fontSize='26.0'/>
+    <textStyle attribute='areaStyle' fontSize='26.0'/>
+    <texture attribute='floorTexture' name='Grey tiles' width='31.5' height='31.5' leftToRightOriented='false' image='152'/>
+    <point x='758.95984' y='398.5'/>
+    <point x='758.95984' y='481.05664'/>
+    <point x='755.1848' y='481.05664'/>
+    <point x='755.1848' y='573.7766'/>
+    <point x='758.95984' y='573.7766'/>
+    <point x='758.95984' y='848.0'/>
+    <point x='953.5' y='848.0'/>
+    <point x='953.5' y='398.5'/>
+  </room>
+  <dimensionLine xStart='30.0' yStart='12.16667' xEnd='30.0' yEnd='230.60667' offset='65.91145'>
+    <textStyle attribute='lengthStyle' fontSize='24.0'/>
+  </dimensionLine>
+  <dimensionLine xStart='0.08854675' yStart='239.97427' xEnd='0.08854675' yEnd='575.2543' offset='36.0'>
+    <textStyle attribute='lengthStyle' fontSize='24.0'/>
+  </dimensionLine>
+  <dimensionLine xStart='280.08856' yStart='582.8243' xEnd='280.08856' yEnd='848.2543' offset='316.0'>
+    <textStyle attribute='lengthStyle' fontSize='24.0'/>
+  </dimensionLine>
+  <dimensionLine xStart='272.08856' yStart='856.58765' xEnd='611.1786' yEnd='856.58765' offset='33.333313'>
+    <textStyle attribute='lengthStyle' fontSize='24.0'/>
+  </dimensionLine>
+  <dimensionLine xStart='760.0885' yStart='844.58765' xEnd='953.1285' yEnd='844.58765' offset='45.333313'>
+    <textStyle attribute='lengthStyle' fontSize='24.0'/>
+  </dimensionLine>
+  <dimensionLine xStart='938.75525' yStart='398.6743' xEnd='938.75525' yEnd='848.2543' offset='-70.666626'>
+    <textStyle attribute='lengthStyle' fontSize='24.0'/>
+  </dimensionLine>
+  <dimensionLine xStart='10.7552185' yStart='-7.4123755' xEnd='749.89526' yEnd='-7.4123755' offset='-28.552078'>
+    <textStyle attribute='lengthStyle' fontSize='24.0'/>
+  </dimensionLine>
+  <dimensionLine xStart='956.0886' yStart='-13.297791' xEnd='956.0886' yEnd='372.7822' offset='-53.333252'>
+    <textStyle attribute='lengthStyle' fontSize='24.0'/>
+  </dimensionLine>
+  <dimensionLine xStart='777.4219' yStart='8.035545' xEnd='978.0819' yEnd='8.035545' offset='-44.0'>
+    <textStyle attribute='lengthStyle' fontSize='24.0'/>
+  </dimensionLine>
+</home>

@@ -1,0 +1,26 @@
+# 3D model import /Users/manu/Desktop/Ceramic hob.obj
+
+newmtl Frame_Cylinder_DarkG_1_1
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.187852 0.187852 0.187852
+Ks 0.016667 0.016667 0.016667
+Ns 96.07843
+Ni 1.0
+
+newmtl Back_Black_Black_51_51
+illum 2
+Ka 0.0 0.0 0.0
+Kd 0.0 0.0 0.0
+Ks 0.0 0.0 0.0
+Ns 96.07843
+Ni 1.0
+
+newmtl 55_55
+illum 2
+Ka 0.2 0.2 0.2
+Kd 1.0 1.0 1.0
+Ks 0.5 0.5 0.5
+Ns 96.07843
+Ni 1.0
+map_Kd Ceramic_hob_55_55.jpg
