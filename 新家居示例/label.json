@@ -1,302 +1,377 @@
 {
   "1.1 卧室门正对厕": [
     "B5",
-    "B2BedroomFlystarB5"
+    "B2BedroomFlystarB5",
+    "BedRoom"
   ],
   "1.2 卧室门不正对厕所（没找到）": [
     "B5",
-    "B2BedroomFlystarB5"
+    "B2BedroomFlystarB5",
+    "BedRoom"
   ],
   "1.3 图片中找不到厕所或卧室门": [
     "B5",
-    "B2BedroomFlystarB5"
+    "B2BedroomFlystarB5",
+    "BedRoom"
   ],
   "10.1 卧室的床在横梁下": [
     "B11",
-    "B2BedroomFlystarB11"
+    "B2BedroomFlystarB11",
+    "BedRoom"
   ],
   "10.2 卧室的床不在横梁下": [
     "B11",
-    "B2BedroomFlystarB11"
+    "B2BedroomFlystarB11",
+    "BedRoom"
   ],
   "10.3 图片中找不到床或横梁": [
     "B11",
-    "B2BedroomFlystarB11"
+    "B2BedroomFlystarB11",
+    "BedRoom"
   ],
   "11.1 卧室昏暗没有采光": [
     "B2",
-    "B2BedroomFlystarB2"
+    "B2BedroomFlystarB2",
+    "BedRoom"
   ],
   "11.2 卧室明亮有采光": [
     "B2",
-    "B2BedroomFlystarB2"
+    "B2BedroomFlystarB2",
+    "BedRoom"
   ],
   "11.3 图片中无相关信息但是是卧室": [
     "B2",
-    "B2BedroomFlystarB2"
+    "B2BedroomFlystarB2",
+    "BedRoom"
   ],
   "12.1 卧室墙角不是直角": [
     "B1",
-    "B2BedroomFlystarB1"
+    "B2BedroomFlystarB1",
+    "BedRoom"
   ],
   "12.2 卧室墙角为直角": [
     "B1",
-    "B2BedroomFlystarB1"
+    "B2BedroomFlystarB1",
+    "BedRoom"
   ],
   "12.3 图片中无相关信息但是是卧室": [
     "B1",
-    "B2BedroomFlystarB1"
+    "B2BedroomFlystarB1",
+    "BedRoom"
   ],
   "13.1 厕所门正对餐桌": [
     "R6",
-    "B2BathroomFlystarR6"
+    "B2BathroomFlystarR6",
+    "BathRoom"
   ],
   "13.2 厕所门不正对餐桌": [
     "R6",
-    "B2BathroomFlystarR6"
+    "B2BathroomFlystarR6",
+    "BathRoom"
   ],
   "13.3 图片中找不到厕所门或餐桌": [
     "R6",
-    "B2BathroomFlystarR6"
+    "B2BathroomFlystarR6",
+    "BathRoom"
   ],
   "14.1 厕所门正对睡床": [
     "R7",
-    "B2BathroomFlystarR7"
+    "B2BathroomFlystarR7",
+    "BathRoom"
   ],
   "14.2 厕所门不正对睡床": [
     "R7",
-    "B2BathroomFlystarR7"
+    "B2BathroomFlystarR7",
+    "BathRoom"
   ],
   "14.3 图片中找不到厕所门或睡床": [
     "R7",
-    "B2BathroomFlystarR7"
+    "B2BathroomFlystarR7",
+    "BathRoom"
   ],
   "15.1 厕所没有保持干燥整洁": [
     "R8",
-    "B2BathroomFlystarR8"
+    "B2BathroomFlystarR8",
+    "BathRoom"
   ],
   "15.2 厕所干燥整洁": [
     "R8",
-    "B2BathroomFlystarR8"
+    "B2BathroomFlystarR8",
+    "BathRoom"
   ],
   "15.3 图片中无相关信息但是是厕所": [
     "R8",
-    "B2BathroomFlystarR8"
+    "B2BathroomFlystarR8",
+    "BathRoom"
   ],
   "16.1 厕所没有窗户": [
     "R11",
-    "B2BathroomFlystarR11"
+    "B2BathroomFlystarR11",
+    "BathRoom"
   ],
   "16.2 厕所有窗户": [
     "R11",
-    "B2BathroomFlystarR11"
+    "B2BathroomFlystarR11",
+    "BathRoom"
   ],
   "16.3 图片中无相关信息但是是厕所": [
     "R11",
-    "B2BathroomFlystarR11"
+    "B2BathroomFlystarR11",
+    "BathRoom"
   ],
   "17.1 客厅的门向内开": [
     "L1",
-    "B2LivingroomFlystarL1"
+    "B2LivingroomFlystarL1",
+    "LivingRoom"
   ],
   "17.2 客厅的门向外开": [
     "L1",
-    "B2LivingroomFlystarL1"
+    "B2LivingroomFlystarL1",
+    "LivingRoom"
   ],
   "17.3 图片中找不到客厅门或无法判断开": [
     "L1",
-    "B2LivingroomFlystarL1"
+    "B2LivingroomFlystarL1",
+    "LivingRoom"
   ],
   "18.1 客厅大门正对门外的电梯": [
     "L2",
-    "B2LivingroomFlystarL2"
+    "B2LivingroomFlystarL2",
+    "LivingRoom"
   ],
   "18.2 客厅大门不正对门外的电梯": [
     "L2",
-    "B2LivingroomFlystarL2"
+    "B2LivingroomFlystarL2",
+    "LivingRoom"
   ],
   "18.3 图片中无相关信息但是是客厅": [
     "L2",
-    "B2LivingroomFlystarL2"
+    "B2LivingroomFlystarL2",
+    "LivingRoom"
   ],
   "19.1 客厅大门直对厕所": [
     "L3",
-    "B2LivingroomFlystarL3"
+    "B2LivingroomFlystarL3",
+    "LivingRoom"
   ],
   "19.2 客厅大门不直对厕所（没找到）": [
     "L3",
-    "B2LivingroomFlystarL3"
+    "B2LivingroomFlystarL3",
+    "LivingRoom"
   ],
   "19.3 图片中找不到客厅大门或厕所": [
     "L3",
-    "B2LivingroomFlystarL3"
+    "B2LivingroomFlystarL3",
+    "LivingRoom"
   ],
   "2.1 卧室门正对厨房": [
     "B6",
-    "B2BedroomFlystarB6"
+    "B2BedroomFlystarB6",
+    "BedRoom"
   ],
   "2.2 卧室门不正对厨房（没找到）": [
     "B6",
-    "B2BedroomFlystarB6"
+    "B2BedroomFlystarB6",
+    "BedRoom"
   ],
   "2.3 图片中找不到厨房或卧室门": [
     "B6",
-    "B2BedroomFlystarB6"
+    "B2BedroomFlystarB6",
+    "BedRoom"
   ],
   "20.1 客厅大门直对客厅的窗户": [
     "L3",
-    "B2LivingroomFlystarL3"
+    "B2LivingroomFlystarL3",
+    "LivingRoom"
   ],
   "20.2 客厅大门不直对窗户的": [
     "L3",
-    "B2LivingroomFlystarL3"
+    "B2LivingroomFlystarL3",
+    "LivingRoom"
   ],
   "20.3 图片中找不到大门或客厅窗户": [
     "L3",
-    "B2LivingroomFlystarL3"
+    "B2LivingroomFlystarL3",
+    "LivingRoom"
   ],
   "21.1 客厅大门的斜对角放置镜子": [
     "L6",
-    "B2LivingroomFlystarL6"
+    "B2LivingroomFlystarL6",
+    "LivingRoom"
   ],
   "21.2 客厅大门的斜对角不放": [
     "L6",
-    "B2LivingroomFlystarL6"
+    "B2LivingroomFlystarL6",
+    "LivingRoom"
   ],
   "21.3 图片中找不到大门或镜子": [
     "L6",
-    "B2LivingroomFlystarL6"
+    "B2LivingroomFlystarL6",
+    "LivingRoom"
   ],
   "22.1 客厅大门的斜对角放置植物": [
     "L6",
-    "B2LivingroomFlystarL6"
+    "B2LivingroomFlystarL6",
+    "LivingRoom"
   ],
   "22.2 客厅大门的斜对角不放": [
     "L6",
-    "B2LivingroomFlystarL6"
+    "B2LivingroomFlystarL6",
+    "LivingRoom"
   ],
   "22.3 图片中找不到大门或植物": [
     "L6",
-    "B2LivingroomFlystarL6"
+    "B2LivingroomFlystarL6",
+    "LivingRoom"
   ],
   "23.1 客厅挂图画": [
     "L12",
-    "B2LivingroomFlystarL12"
+    "B2LivingroomFlystarL12",
+    "LivingRoom"
   ],
   "23.2 客厅不挂图画": [
     "L12",
-    "B2LivingroomFlystarL12"
+    "B2LivingroomFlystarL12",
+    "LivingRoom"
   ],
   "23.3 图片中无相关信息但是是客厅": [
     "L12",
-    "B2LivingroomFlystarL12"
+    "B2LivingroomFlystarL12",
+    "LivingRoom"
   ],
   "24.1 客厅塞满古董": [
     "L13",
-    "B2LivingroomFlystarL13"
+    "B2LivingroomFlystarL13",
+    "LivingRoom"
   ],
   "24.2 客厅没有塞满古董、摆设简洁": [
     "L13",
-    "B2LivingroomFlystarL13"
+    "B2LivingroomFlystarL13",
+    "LivingRoom"
   ],
   "24.3 图片中无相关信息但是是客厅": [
     "L13",
-    "B2LivingroomFlystarL13"
+    "B2LivingroomFlystarL13",
+    "LivingRoom"
   ],
   "25.1 客厅杂乱": [
     "L13",
-    "B2LivingroomFlystarL13"
+    "B2LivingroomFlystarL13",
+    "LivingRoom"
   ],
   "25.2 客厅整洁": [
     "L13",
-    "B2LivingroomFlystarL13"
+    "B2LivingroomFlystarL13",
+    "LivingRoom"
   ],
   "25.3 图片中无相关信息但是是客厅": [
     "L13",
-    "B2LivingroomFlystarL13"
+    "B2LivingroomFlystarL13",
+    "LivingRoom"
   ],
   "3.1 卧室门正对镜子": [
     "B7",
-    "B2BedroomFlystarB7"
+    "B2BedroomFlystarB7",
+    "BedRoom"
   ],
   "3.2 卧室门不正对镜子": [
     "B7",
-    "B2BedroomFlystarB7"
+    "B2BedroomFlystarB7",
+    "BedRoom"
   ],
   "3.3 图片中找不到镜子或卧室门": [
     "B7",
-    "B2BedroomFlystarB7"
+    "B2BedroomFlystarB7",
+    "BedRoom"
   ],
   "4.1 镜子正对床": [
     "B8",
-    "B2BedroomFlystarB8"
+    "B2BedroomFlystarB8",
+    "BedRoom"
   ],
   "4.2 镜子不正对床": [
     "B8",
-    "B2BedroomFlystarB8"
+    "B2BedroomFlystarB8",
+    "BedRoom"
   ],
   "4.3 图片中找不到镜子或床": [
     "B8",
-    "B2BedroomFlystarB8"
+    "B2BedroomFlystarB8",
+    "BedRoom"
   ],
   "5.1 落地门窗正对床": [
     "B8",
-    "B2BedroomFlystarB8"
+    "B2BedroomFlystarB8",
+    "BedRoom"
   ],
   "5.2 落地门窗不正对床": [
     "B8",
-    "B2BedroomFlystarB8"
+    "B2BedroomFlystarB8",
+    "BedRoom"
   ],
   "5.3 图片中找不到落地门窗或床": [
     "B8",
-    "B2BedroomFlystarB8"
+    "B2BedroomFlystarB8",
+    "BedRoom"
   ],
   "6.1 床头正对卧室门": [
     "B9",
-    "B2BedroomFlystarB9"
+    "B2BedroomFlystarB9",
+    "BedRoom"
   ],
   "6.2 床头不正对卧室门": [
     "B9",
-    "B2BedroomFlystarB9"
+    "B2BedroomFlystarB9",
+    "BedRoom"
   ],
   "6.3 图片中找不到床头或卧室门": [
     "B9",
-    "B2BedroomFlystarB9"
+    "B2BedroomFlystarB9",
+    "BedRoom"
   ],
   "7.1 床头紧贴窗口": [
     "B10",
-    "B2BedroomFlystarB10"
+    "B2BedroomFlystarB10",
+    "BedRoom"
   ],
   "7.2 床头不紧贴窗口": [
     "B10",
-    "B2BedroomFlystarB10"
+    "B2BedroomFlystarB10",
+    "BedRoom"
   ],
   "7.3 图片中找不到床头或窗口": [
     "B10",
-    "B2BedroomFlystarB10"
+    "B2BedroomFlystarB10",
+    "BedRoom"
   ],
   "8.1 床头不靠墙壁": [
     "B12",
-    "B2BedroomFlystarB12"
+    "B2BedroomFlystarB12",
+    "BedRoom"
   ],
   "8.2 床头靠墙": [
     "B12",
-    "B2BedroomFlystarB12"
+    "B2BedroomFlystarB12",
+    "BedRoom"
   ],
   "8.3 图片中找不到床头或墙壁": [
     "B12",
-    "B2BedroomFlystarB12"
+    "B2BedroomFlystarB12",
+    "BedRoom"
   ],
   "9.1 卧室没有窗户": [
     "B2",
-    "B2BedroomFlystarB2"
+    "B2BedroomFlystarB2",
+    "BedRoom"
   ],
   "9.2 卧室有窗户": [
     "B2",
-    "B2BedroomFlystarB2"
+    "B2BedroomFlystarB2",
+    "BedRoom"
   ],
   "9.3 图片中无相关信息但是是卧室": [
     "B2",
-    "B2BedroomFlystarB2"
+    "B2BedroomFlystarB2",
+    "BedRoom"
   ]
 }
